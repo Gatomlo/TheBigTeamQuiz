@@ -1,0 +1,112 @@
+body{
+  background-color: #dabd91;
+}
+.mainContainer{
+  margin:50px;
+}
+
+.deck1{
+  border-radius:10px;
+
+}
+
+.team{
+  margin:5px;
+  width:100%;
+  /* background-color: #ee8159; */
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.teamTitle{
+  margin:5px;
+  width:100%;
+}
+
+.logo{
+  width:15%;
+}
+
+.logoBox{
+  margin-top: 20px;
+}
+
+.pointBadge{
+  text-align: right;
+}
+
+.addPointButton{
+  margin-right: 20px;
+  width: 50px;
+}
+
+.addPointLine{
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.titleGameDia{
+  color:#ff934f;
+  font-size: 2em;
+}
+.generalTitle{
+  color:#ff934f;
+  font-size: 3em;
+}
+
+.question{
+  color:#ff934f;
+  font-size: 1em;
+}
+
+.imagekiditout{
+  margin: 10px;
+  height: 40%;
+  width: 40%;
+}
+
+.bond{
+  height: 30%;
+  width: 30%;
+}
+.pitt{
+  height: 32%;
+  width: 32%;
+}
+.outlander{
+  height: 80%;
+  width: 80%;
+}
+.oscar{
+  height: 23%;
+  width: 23%;
+}
+.oscar2{
+  height: 25%;
+  width: 25%;
+}
+.oscar3{
+  height: 27%;
+  width: 27%;
+}
+.witcher{
+  height: 40%;
+  width:40%;
+}
+.sherlock{
+  height: 28%;
+  width:28%;
+}
+.oneshot{
+  height: 50%;
+  width:50%;
+}
+
+a {
+  color:#ff934f!Important;
+  font-size: 1em;
+}
+a:visited {
+  color:#d7263d!Important;
+  font-size: 1em;
+}
