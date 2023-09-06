@@ -47,7 +47,7 @@ body{
 
 .titleGameDia{
   color:#ff934f;
-  font-size: 2em;
+  font-size: 3em;
 }
 .generalTitle{
   color:#ff934f;
@@ -106,7 +106,10 @@ a {
   color:#ff934f!Important;
   font-size: 1em;
 }
-a:visited {
-  color:#d7263d!Important;
-  font-size: 1em;
+
+.citation{
+  font-style: italic;
+}
+.replique{
+  font-size: 2em;
 }

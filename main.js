@@ -63,3 +63,8 @@ $(".addPointButton").on("click",function(){
 $(".manualPointButton").on("click",function(){
   $(".manualPointModal").append('<div class="modal-footer"><input type="text" class="form-control" id="manualPointInput"><button type="button" id="addManualPointButton" class="addManualPointButton btn btn-success">Ajouter</button></div>')
 })
+
+$(".questionLink").on("click",function(){
+  $(this).remove()
+
+})
